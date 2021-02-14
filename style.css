@@ -26,5 +26,12 @@ img {
     border-color: azure;
   border-radius: 30px;
 } 
+<style>
+.Home Cooking { grid-area: header; }
+.Fried Rice { grid-area: menu; }
+.img src="https://cdn.pixabay.com/photo/2015/10/26/07/21/vegetables-1006694_1280.jpg { grid-area: main; }
+.Cooking Tips { grid-area: right; }
+.item5 { grid-area: footer; }
+</style>
   
 
