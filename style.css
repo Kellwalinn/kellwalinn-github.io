@@ -4,14 +4,10 @@ h2 {
   font-size: 40px;
   text-align: center;
 }
-h4 {
+h1 {
   color: white;
 }
-h5 {
-  color: white;
-  text-align: center;
-  font-style: oblique;
-  font-size: 20px;
+
   
 }
 Body {
@@ -25,7 +21,7 @@ img {
   border-style: dotted;
     border-color: azure;
   border-radius: 35px;
-  text-align: center;
+  float: right;
 } 
 
 
