@@ -1,13 +1,18 @@
+
 h2 {
   color: White;
   font-style: italic;
   font-size: 40px;
   text-align: center;
 }
-h1 {
+h4 {
   color: white;
 }
-
+h5 {
+  color: white;
+  text-align: center;
+  font-style: oblique;
+  font-size: 20px;
   
 }
 Body {
@@ -20,18 +25,8 @@ p{
 img {
   border-style: dotted;
     border-color: azure;
-  border-radius: 35px;
-  float: right;
-} 
-
-.grid-container {
-  display: grid;
-  grid-template-areas:
-    'header header header header header header'
-    'menu main main main right right'
-    'menu footer footer footer footer footer';
-  grid-gap: 10px;
-  background-color: #2196F3;
-  padding: 10px;
+  border-radius: 30px;
+  
+  
 }
 
