@@ -1,8 +1,7 @@
-
-h2 {
+h3 {
   color: White;
-  font-style: italic;
-  font-size: 40px;
+  font-style: oblique;
+  font-size: 20px;
   text-align: center;
 }
 h4 {
@@ -18,13 +17,15 @@ h5 {
 Body {
   background: Black;
 }
-p{
-  color: white;
+h1{
+  color: Orange;
   text-align: center;
+  font-style: italic;
+  font-size: 40px;
+
 }
 img {
   border-style: dotted;
     border-color: azure;
   border-radius: 30px;
 } 
-
