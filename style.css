@@ -28,7 +28,7 @@ img {
   border-style: dotted;
     border-color: azure;
   border-radius: 30px;
-  float: right; 
+  float: inherit; 
   width:  350px;
   height: 250px;
 } 
