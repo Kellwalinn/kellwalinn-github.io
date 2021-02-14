@@ -25,20 +25,8 @@ img {
   border-style: dotted;
     border-color: azure;
   border-radius: 30px;
+  float: center;
 } 
-<style>
-.Home Cooking { grid-area: header; }
-.Fried Rice { grid-area: menu; }
-.img src="https://cdn.pixabay.com/photo/2015/10/26/07/21/vegetables-1006694_1280.jpg { grid-area: main; }
-.Cooking Tips { grid-area: right; }
-.item5 { grid-area: footer; }
-</style>
-<div class="grid-container">
-  <div class="item1">Header</div>
-  <div class="item2">Menu</div>
-  <div class="item3">Main</div>  
-  <div class="item4">Right</div>
-  <div class="item5">Footer</div>
-</div>
-  
+
+
 
