@@ -28,8 +28,12 @@ img {
   border-style: dotted;
     border-color: azure;
   border-radius: 30px;
+  float: right; 
+  width:  350px;
+  height: 250px;
 } 
 li{
-  font-family: cursive;
+  font-family: arial;
   color:  white;
+  font-size:15px;
 }
